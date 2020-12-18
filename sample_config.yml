@@ -1,4 +1,5 @@
+production: False
 website:
-  bitrex:
+  bittrex:
     username : "my_username"
     password : "my_password"
